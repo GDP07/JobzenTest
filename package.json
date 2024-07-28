@@ -1,0 +1,15 @@
+{
+  "name": "cypressutomationdaraz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diraj",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
